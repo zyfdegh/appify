@@ -15,3 +15,6 @@
 
 vendor/
 !vendor/vendor.json
+
+/appify
+/testdata/app
