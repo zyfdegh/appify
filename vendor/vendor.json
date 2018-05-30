@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "75INt2o3smWl9G+TPLxSE8LLDr8=",
+			"path": "github.com/JackMordaunt/icns",
+			"revision": "98e1c42c5bdcc581c2fe75a8e665a4c405de9e05",
+			"revisionTime": "2018-05-24T11:23:08Z"
+		},
+		{
+			"checksumSHA1": "6rJRLbRxATT44ljt4rDSk1UW5yg=",
+			"path": "github.com/matryer/is",
+			"revision": "be846f6cea707577c0d3a1e055d6cb719b68d533",
+			"revisionTime": "2018-05-17T10:23:37Z"
+		},
+		{
+			"checksumSHA1": "6z9MgcvNbdVGsAIvv6BHA1uALQA=",
+			"path": "github.com/nfnt/resize",
+			"revision": "83c6a9932646f83e3267f353373d47347b6036b2",
+			"revisionTime": "2018-02-21T19:10:11Z"
+		},
+		{
+			"checksumSHA1": "xCv4GBFyw07vZkVtKF/XrUnkHRk=",
+			"path": "github.com/pkg/errors",
+			"revision": "e881fd58d78e04cf6d0de1217f8707c8cc2249bc",
+			"revisionTime": "2017-12-16T07:03:16Z"
+		}
+	],
+	"rootPath": "github.com/machinebox/appify"
+}
